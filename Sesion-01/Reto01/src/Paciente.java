@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class Paciente {
     String Nombre;
     int Edad;
-    int NumeroExpediente;
+    String NumeroExpediente;
 
     public void mostrarInformacion(){
         Scanner pac = new Scanner(System.in);
@@ -12,7 +12,7 @@ public class Paciente {
 
         Nombre = pac.nextLine();
         Edad = pac.nextInt();
-        NumeroExpediente = pac.nextInt();
+        NumeroExpediente = pac.nextLine();
 
         System.out.println("Name: " + Nombre);
         System.out.println("Age: " + Edad);
