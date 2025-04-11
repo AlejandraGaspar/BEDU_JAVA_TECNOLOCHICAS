@@ -3,8 +3,8 @@ public class Entrada {
     double PrecioEntrada;
 
     public Entrada(String x, double y){
-        NombreEvento = x;
-        PrecioEntrada = y;
+        this.NombreEvento = x;
+        this.PrecioEntrada = y;
     }
     public void mostrarInformacion(){
         System.out.println("Evento: " + NombreEvento + " | Precio: " + PrecioEntrada);

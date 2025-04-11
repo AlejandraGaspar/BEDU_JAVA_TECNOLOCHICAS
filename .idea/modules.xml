@@ -5,8 +5,11 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/BEDU_JAVA.iml" filepath="$PROJECT_DIR$/.idea/BEDU_JAVA.iml" />
       <module fileurl="file://$PROJECT_DIR$/Sesion-01/Ejemplo01/Ejemplo01.iml" filepath="$PROJECT_DIR$/Sesion-01/Ejemplo01/Ejemplo01.iml" />
       <module fileurl="file://$PROJECT_DIR$/Sesion-01/Ejemplo02/Ejemplo02.iml" filepath="$PROJECT_DIR$/Sesion-01/Ejemplo02/Ejemplo02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sesion-01/Ejemplo03/Ejemplo03.iml" filepath="$PROJECT_DIR$/Sesion-01/Ejemplo03/Ejemplo03.iml" />
       <module fileurl="file://$PROJECT_DIR$/Sesion-01/Reto01/Reto01.iml" filepath="$PROJECT_DIR$/Sesion-01/Reto01/Reto01.iml" />
       <module fileurl="file://$PROJECT_DIR$/Sesion-01/Reto02/Reto02.iml" filepath="$PROJECT_DIR$/Sesion-01/Reto02/Reto02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sesion-02/S2-Ejemplo01/S2-Ejemplo01.iml" filepath="$PROJECT_DIR$/Sesion-02/S2-Ejemplo01/S2-Ejemplo01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sesion-02/S2-Reto01/S2-Reto01.iml" filepath="$PROJECT_DIR$/Sesion-02/S2-Reto01/S2-Reto01.iml" />
     </modules>
   </component>
 </project>

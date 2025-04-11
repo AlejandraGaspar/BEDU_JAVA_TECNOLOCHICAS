@@ -4,5 +4,8 @@ public class Principal {
         Entrada entrada2 = new Entrada("Concierto de BTS", 7507.50);
         entrada1.mostrarInformacion();
         entrada2.mostrarInformacion();
+
+        Entrada_Record entrad = new Entrada_Record("Festival de Navidad", 345.67);
+        entrad.mostrarInformacion();
     }
 }
