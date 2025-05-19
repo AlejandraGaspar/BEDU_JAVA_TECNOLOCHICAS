@@ -14,4 +14,12 @@ public class Patrulla extends UnidadEmergencia {
     public void responder() {
         System.out.println("Patrulla atendiendo situación de seguridad ciudadana.");
     }
+
+    public void iniciarOperacion(){
+        activarUnidad();
+        responder();
+        gps.localizar();
+        sirena.activarSirena();
+        operador.reportarse();
+    }
 }
